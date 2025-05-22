@@ -2,8 +2,7 @@
 
 22 May 2025
 
-This starter code is meant to help you get started as quickly as possible.
-If defines the structure of the game board as a list of 3 lists, with each sub-list representing a row on the board.
+The game board is defined as a list of 3 lists, with each sub-list representing a row on the board.
 For example, [ ['-', 'O', '-'], ['-', '-', 'O'], ['X', '-', '-'] ].
 Each column of each row is either Player 1 (O), Player 2 (X) or empty (-).
 Each element of the board can be accessed using index like board[0][1] (row 0, column 1).
