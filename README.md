@@ -14,3 +14,5 @@ You need to do the following:
 - Implement logic to determine winning combination or a draw (ie examine every row, every column and the diagonals)
 - For AI vs human, implement logic to determine where the AI should move to
 - When a game has ended, either quit the program or start another game
+
+You can either clone or fork the repo.
